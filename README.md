@@ -17,6 +17,9 @@ There are three .ipynb file.
 - DLmodel_map_lidar.ipynb
   - Estimate localizability from both 3DLiDAR point cloud data and Map point cloud
 
+## Model
+For DLmodel_map_lidar.ipynb there is a learned model. 
+
 ## RUN
 Run the .ipynb file using google colab.
 Please do not forget to set the path of the dataset.
